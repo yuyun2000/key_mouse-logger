@@ -1,2 +1,31 @@
 # key_mouse-logger
-该仓库用来记录键盘和鼠标的动作，并且给出其他各种统计值比如点击次数，移动距离和使用习惯等。The repository is used to record keyboard and mouse actions and provide various other statistical values ​​such as number of clicks, movement distance, and usage habits.
+
+## 使用说明
+
+- 首先运行create_log.py，会在同级目录下创建一个txt文件
+- 然后运行其他的还没写的统计指标，可以看到各种信息
+
+
+## 数据大小
+20分钟-270KB    
+1小时-810KB     
+8小时-6480KB 约等于6.3MB        
+一个月20天-126.56MB     
+一年-1518.75MB  
+一年的轨迹才这么点...
+
+
+## TODO
+
+- 各种统计信息：
+
+统计打字频率，打字速度，最常用的按键排行，每天复制粘贴的次数...     
+热力图 轨迹图什么的 
+每日点击左键、右键次数  
+最长时间静止   
+静止一分钟以上的次数    
+鼠标的轨迹是直向更多还是曲线更多
+
+- 更好的运行方式
+
+
